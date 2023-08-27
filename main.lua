@@ -1,4 +1,4 @@
--- By VenusGroup (Cheat Roblox)
+-- By VenusGroup
 if not game:IsLoaded() then game.Loaded:Wait() end
 
 local lPlayer = game.Players.LocalPlayer
